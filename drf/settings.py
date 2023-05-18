@@ -175,6 +175,6 @@ DATABASES = {
         'USER': 'Laiba_Naeem',
         'PASSWORD': 'FnH}Cer?r%}Jq9l)',
         'NAME': 'laiba_db',
-        'PORT': 5433
+        'PORT': 5432
     }
 }
