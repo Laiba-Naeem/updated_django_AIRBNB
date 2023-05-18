@@ -1,0 +1,9 @@
+react-front-end/
+db.sqlite3
+.env
+.history/
+.vscode/
+.flake8
+hotel_dataset.csv
+package.json
+package-lock.json
